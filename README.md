@@ -23,8 +23,7 @@ Currently learning machine learning concepts and sharpening my Python and SQL sk
 
 ## GitHub stats
 
-![Het's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hetpatoliya0206&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetpatoliya0206&layout=compact&hide_border=true)
+![Het's GitHub Stats](https://github-stats.vercel.app/api?username=hetpatoliya0206)
 
 ---
 
