@@ -21,9 +21,8 @@ Currently learning machine learning concepts and sharpening my Python and SQL sk
 
 ---
 
-## GitHub stats
-
-![Het's GitHub Stats](https://github-stats.vercel.app/api?username=hetpatoliya0206)
+## GitHub activity
+- Check out my pinned repositories below!
 
 ---
 
